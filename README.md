@@ -1,2 +1,1 @@
-# llama-index
-라마인덱스
+# llama-index-tutorial
